@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/Scatteredpollen.egg-info/PKG-INFO
+src/Scatteredpollen.egg-info/SOURCES.txt
+src/Scatteredpollen.egg-info/dependency_links.txt
+src/Scatteredpollen.egg-info/entry_points.txt
+src/Scatteredpollen.egg-info/top_level.txt
